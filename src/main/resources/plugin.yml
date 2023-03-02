@@ -1,0 +1,11 @@
+name: FiveCraft
+version: '${project.version}'
+main: ccode.fivecraft.moneysmp.core.FiveCore
+api-version: 1.16
+authors: [ costa ]
+description: Core plugin for FiveCraft - MoneySMP | Alpha 0.1
+commands:
+  fb:
+  yt:
+  lvl:
+  podloz:
